@@ -11,3 +11,6 @@ s=set()
 s.add(1)
 s.add(2)
 print(s)
+
+e={}
+print(type(e))

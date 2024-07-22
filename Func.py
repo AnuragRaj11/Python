@@ -1,4 +1,4 @@
-def fun():
-    print("hii")
-    
-    fun()
+def goodDay():
+    print("Good Day")
+
+goodDay()

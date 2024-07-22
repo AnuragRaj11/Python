@@ -1,1 +1,4 @@
-joke=pyjokes.get
+def goodDay():
+#     print("Good Day")
+
+# goodDay()

@@ -1,4 +1,12 @@
-def goodDay():
-    print("Good Day")
+# def goodDay():
+#     print("Good Day")
 
-goodDay()
+# goodDay()
+
+def goodDay(name):
+    print("Good Day " + name)
+    return "ok"
+
+a = goodDay("raj") 
+print(a)
+    

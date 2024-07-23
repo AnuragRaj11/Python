@@ -1,7 +1,7 @@
 import random
-n=random.randint(1,100)
-a=-1
-gusses=1
+n= random.randint(1,100)
+a= -1
+gusses= 1
 
 while a!=n:
  a=int(input("enter the number:"))
